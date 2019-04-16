@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal", "Portal.csproj", "{48F95D16-FA36-D60D-9881-617D00E00073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.Plugins", "Portal.Plugins.csproj", "{5E0DE3C0-BCD6-A4B7-D8FA-49472968E2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F95D16-FA36-D60D-9881-617D00E00073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F95D16-FA36-D60D-9881-617D00E00073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F95D16-FA36-D60D-9881-617D00E00073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F95D16-FA36-D60D-9881-617D00E00073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0DE3C0-BCD6-A4B7-D8FA-49472968E2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0DE3C0-BCD6-A4B7-D8FA-49472968E2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0DE3C0-BCD6-A4B7-D8FA-49472968E2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0DE3C0-BCD6-A4B7-D8FA-49472968E2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
